@@ -15,5 +15,9 @@ Stretch Goals:
     - Work with more text-based file types like pdf
 
 Structure:
-    Start with a small header file make submodules when scope begins to creep.
+    - Start with a small header file make submodules when scope begins to creep.
+    - Have a class parser 
+
+Notes:
+    - C++ treats structs and classes the same in terms of definitions
     
